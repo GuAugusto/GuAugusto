@@ -1,12 +1,12 @@
 # Olá, eu sou o Gustavo Augusto!
-Um simples garoto sonhador!
+Um garoto sonhador!
 
 
-### Em Construção ⛑️
+
 
 -  🎓 Desenvolvedor Fullstack Java Jr
  
-• 📍 São Bernardo Do Campo- SP
+• 📍 São Paulo- SP
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuAugusto&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuAugusto&layout=compact&theme=highcontrast)
