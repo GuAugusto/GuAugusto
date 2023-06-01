@@ -1,12 +1,18 @@
 # Olá, eu sou o Gustavo Augusto!
 Um garoto sonhador!
+Desenvolvedor Node.js brasileiro de 22 anos. 
+
+Estou familiarizado com a criação de aplicações do lado do servidor e tenho conhecimento em JavaScript, que é a linguagem de programação predominante nesse ambiente.
+
+Sou autodidata, determinado em adquirir conhecimento e habilidades novas, tenho uma paixão pela aprendizagem contínua.
+
+Como um desenvolvedor Node.js, tenho experiência em construir APIs RESTful, manipular bancos de dados, trabalhar com frameworks como Express.js e ferramentas de gerenciamento de pacotes como o npm. Além disso, possuo conhecimentos em bibliotecas populares do ecossistema Node.js, como o Socket.IO para comunicação em tempo real e o Sequelize para interagir com bancos de dados relacionais.
+
+Continuo buscando conhecimento, aprimorando minhas habilidades e construindo projetos interessantes. Com dedicação e perseverança.
 
 
-
--  🎓 Developer NodeJs 
+• 🎓 Developer NodeJs 
  
-• 📍 São Paulo - BR
-
 
 
 <div style="display: inline_block">
