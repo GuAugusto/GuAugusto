@@ -8,7 +8,6 @@ Um garoto sonhador!
 • 📍 São Paulo - BR
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuAugusto&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuAugusto&layout=compact&theme=highcontrast)
 
 <div style="display: inline_block">
 
