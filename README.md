@@ -1,5 +1,7 @@
 # Olá, eu sou o Gustavo Augusto!
-Um garoto sonhador!
+Olá, sou um analista de sistemas com mais de dois anos de experiência.
+
+Meu objetivo é atuar na área de tecnologia da informação, com foco em desenvolvimento de sistemas. Ao longo da minha carreira, adquirir habilidades sólidas em integração de dados entre sistemas e APIs, execução de melhorias, análise e correção de incidentes, testes unitários/integrados e comunicação com o cliente. Tenho prática em processos ágeis, incluindo Kanban e Scrum, o que me permite colaborar efetivamente em equipes de desenvolvimento.
 
 • 🎓 Developer NodeJs 
  
