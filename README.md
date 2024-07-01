@@ -1,9 +1,6 @@
 # Gustavo Augusto
 
-Opa, tudo bom? Me chamo Gustavo Augusto.
-Hi, how are you? My name is Gustavo Augusto.
-
-Se você se intessou no meu perfil, fique a vontade para entrar em contato.
+Hi!
 If you are interested in my profile, feel free to get in touch.
 
 • 🎓 Developer 
