@@ -1,18 +1,20 @@
 # Gustavo Augusto
 
-## 👋 Olá, eu sou o Gustavo Augusto  
+Profissional de Tecnologia com mais de 4 anos de experiência como Analista de Sistemas, atuando em integrações iPaaS, automações e desenvolvimento backend utilizando JavaScript/Node.js. 
+Possuo sólida vivência em fluxos de integração, tratamento de dados, arquitetura de APIs e resolução de problemas em ambientes corporativos.
 
-💻 **Analista de Sistemas** com +3 anos de experiência em integrações (iPaaS) e desenvolvimento em **JavaScript/Node.js**.  
-🚀 Atualmente focado em expandir minhas habilidades para **desenvolvimento full-stack** e arquitetura de sistemas modernos.  
-🤖 Apaixonado por **Inteligência Artificial aplicada** a projetos reais, como análise de dados públicos e automação inteligente.  
-📊 Experiência em criar **MVPs funcionais**, com visão prática de negócio e foco em inovação.  
-🏦 Meu objetivo é evoluir profissionalmente para atuar em grandes empresas de tecnologia/finanças.  
+Atualmente, dedica-Me ao aprimoramento técnico em Java para desenvolvimento Back-End, buscando aprofundamento em arquitetura de software, boas práticas de engenharia e ambientes de alta performance, com foco em oportunidades em grandes empresas de tecnologia e instituições financeiras.
 
-### 🛠️ Tecnologias e interesses
-- **Back-end:** Node.js, Express, APIs REST  
-- **Front-end:** React, Next.js (em evolução)  
-- **Dados & IA:** Python, NLP, análise de textos, automação com LLMs  
-- **Arquitetura:** Integrações iPaaS, boas práticas de system design, estudos em cloud (AWS/Azure)  
+Competências Técnicas
+Back-End
+Node.js, Express
+Desenvolvimento e consumo de APIs REST
+Boas práticas de clean code e modularização
+Integrações & Arquitetura
+Orquestração e automação de fluxos
+System Design em nível fundamental (cache, filas, versionamento, logs, APIs)
+
+Estudos contínuos em arquitetura de microsserviços
 
 ### 📫 Onde me encontrar
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gustavo-augusto-/)
